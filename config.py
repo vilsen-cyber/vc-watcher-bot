@@ -1,0 +1,84 @@
+import os
+
+# 🔐 Telegram Bot Token - get from environment variable
+API_TOKEN = os.environ['TELEGRAM_BOT_TOKEN']
+
+# 👥 Watchlist of agencies - keys in lowercase for case-insensitive matching
+WATCHLIST = {
+    "vilsen": 444894175,
+    "alexandr1": 7995648813,
+    "nedved filial": 7995648813,
+    "friends forever": 7995648813,
+    "kiril_love_filial": 7995648813,
+    "milla": 7995648813,
+    "victoriaagency": 7995648813,
+    "julia's girls": 7995648813,
+    "alexandr2": 7995648813,
+    "fashionbridefilialkiev": 7995648813,
+    "bestbrideagency": 7995648813,
+    "love_me77": 7995648813,
+    "kira filial": 7995648813,
+    "sofi": 7995648813,
+    "софи": 7995648813,
+    "vicclubakiev filial": 7995648813,
+    "vicclubakievfilial2": 7995648813,
+    "nikolaevclub": 7995648813,
+    "sc2023": 7995648813,
+    "vordov_agency": 7995648813,
+    "kira": 7995648813,
+    "happy hearts": 7995648813,
+    "two love": 7995648813,
+    "zpinfinity love": 7995648813,
+    "youandme": 7995648813,
+    "bublgum": 7995648813,
+    "maybee": 7995648813,
+    "agency.lovemy": 7995648813,
+    "mishandy": 7995648813,
+    "alexandr": 7995648813,
+    "amur plus": 7995648813,
+    "lovestar": 7995648813,
+    "colibri": 7615599241,
+    "bridestar": 7615599241,
+    "loveisreal": 7615599241,
+    "mirabelle": 7615599241,
+    "marrias": 7615599241,
+    "kirillove": 7615599241,
+    "duet agency": 7615599241,
+    "sonata": 7615599241,
+    "edem": 7615599241,
+    "lera agency": 7615599241,
+    "veronika love": 7615599241,
+    "nika agency": 7615599241,
+    "loveforever": 7615599241,
+    "ice cream": 7615599241,
+    "bonnie & clyde": 7615599241,
+    "vicclubb": 7615599241,
+    "new generation": 7615599241,
+    "sweet dreams": 7615599241,
+    "moonlight": 7615599241,
+    "viccluba": 7615599241,
+    "g-girls": 7615599241,
+    "nkdating": 7615599241,
+    "love language": 7615599241,
+    "dominant": 7615599241,
+    "доминант": 7615599241,
+    "marrylovetime": 7615599241,
+    "uahoneymoon": 7615599241,
+    "victoriyaclub admin": 7995648813,
+    "амур": 7995648813,
+    "александр": 7995648813,
+    "александр1": 7995648813,
+    "happy hearts": 7995648813,
+    "happyhearts": 7995648813,
+    "амуры": 7995648813,
+    "zp infinity love": 7995648813,
+    "zp": 7995648813,
+    "zp infinity": 7995648813
+}
+
+# 🌐 Web server configuration
+WEB_HOST = '0.0.0.0'
+WEB_PORT = 5000
+
+# 📋 Logging configuration
+LOG_LEVEL = 'INFO'
