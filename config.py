@@ -5,7 +5,7 @@ API_TOKEN = os.environ['TELEGRAM_BOT_TOKEN']
 
 # 👥 Watchlist of agencies - keys in lowercase for case-insensitive matching
 WATCHLIST = {
-    "vilsen": 444894175,
+    "girls": 7995648813,
     "alexandr1": 7995648813,
     "nedved filial": 7995648813,
     "friends forever": 7995648813,
