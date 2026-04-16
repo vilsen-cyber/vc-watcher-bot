@@ -38,6 +38,7 @@ WATCHLIST = {
     "maybee": 7995648813,
     "agency.lovemy": 7995648813,
     "mishandy": 7995648813,
+    "mirele agency": 7995648813,
     "alexandr": 7995648813,
     "amur plus": 7995648813,
     "александр": 7995648813,
