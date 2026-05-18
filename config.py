@@ -9,6 +9,7 @@ WATCHLIST = {
     "two moons": 7995648813,
     "maramada": 7995648813,
     "magnifique": 7995648813,
+    "golden rose": 7995648813,
     "magic love": 7995648813,
     "alexandr1": 7995648813,
     "nedved filial": 7995648813,
