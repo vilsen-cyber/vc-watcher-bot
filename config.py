@@ -57,6 +57,7 @@ WATCHLIST = {
     "lovestar": 7995648813,
     "loveisreal": 7615599241,
     "mirabelle": 7615599241,
+    "lumi": 7615599241,
     "marrias": 7615599241,
     "kirillove": 7615599241,
     "duet agency": 7615599241,
